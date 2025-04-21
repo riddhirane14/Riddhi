@@ -1,1 +1,1 @@
-print "Hello Riddhi"
+print ("Hello Riddhi")
